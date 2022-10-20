@@ -1,9 +1,10 @@
-
-
-
-
-
-
+'''
+    Created by Muhammad Dzaky Farhan
+    19/10/2022
+    Sepuluh November Institute of Technology
+    Informatics Engineering
+    Solving = creating a pyhton code that could find determinant and inverse of a matrix
+'''
 def main():
     while True:
 
